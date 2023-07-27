@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\bin\Debug\phase1-quick.exe.config
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\bin\Debug\phase1-quick.exe
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\bin\Debug\phase1-quick.pdb
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\obj\Debug\phase1-quick.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\obj\Debug\phase1-quick.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\obj\Debug\phase1-quick.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\obj\Debug\phase1-quick.exe
+C:\Users\Admin\source\repos\phase1-quick\phase1-quick\obj\Debug\phase1-quick.pdb
